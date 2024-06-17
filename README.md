@@ -6,7 +6,7 @@ This is a project based on Content Based Recommendation System using Streamlit. 
 
 ### Instructions how to go about it:
 1. **Run this code for installation of necessary libraries :** ```!pip install streamlit pickle```(if required) <br><br>
-2. **Run the jupyter file 'Content Based Recommendation System.ipynb' to get pickle files i.e `movie_list.pkl` and `similarity.pkl`**<br><br>
+2. **Run the contents of jupyter file 'Content Based Recommendation System.ipynb' to get pickle files i.e `movie_list.pkl` and `similarity.pkl`**<br><br>
 3. **Open Anaconda Prompt, enter the current directory of the folder using 'cd' command :** ```cd folder_path```.
    <br>**For Example:** ```cd C:\Users\Desktop\Github\Content-Based-Movie-RS```<br><br> 
-4. **Run this code to launch your streamlit app :** ```streamlit run app.py``` (make sure you have entered the current directory where app.py is present using 'cd' command)
+4. **Run this code after step 3 , to launch your streamlit app :** ```streamlit run app.py``` (make sure you have entered the current directory where app.py is present using 'cd' command)
